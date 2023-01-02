@@ -1,0 +1,25 @@
+
+{
+    "name": "Islamic Investment Coin",
+    "type": "BEP20",
+    "symbol": "IIC",
+    "decimals": 18,
+    "website": "https://dsarci.com/",
+    "description": "Islamic Investment Coin (IIC) is a new digital asset built on the BEP-20 network. It is designed to provide a halal investment option for Muslims who wish to adhere to the principles of Islamic finance and Islamic jurisprudence in the crypto world.",
+    "explorer": "https://bscscan.com/token/0x9C8Af1d873897d56526b691369228919544f8e0d",
+    "status": "active",
+    "id": "0x9C8Af1d873897d56526b691369228919544f8e0d",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/dsarci"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://www.dsarci.com/whitepaper"
+        }
+    ],
+    "tags": [
+        "investment"
+    ]
+}
